@@ -22,25 +22,30 @@ I first imported the pickle and then defined my variables. Next I processed the 
 Once the code was in place, I ran the code in PyCharm and via a Console Application. (Figure 1)
 
 ![Exception Handling Python Code](https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/Figure1.png?raw=true "Exception Handling Python Code")
+
 Figure 1: Pickle Code Running
 
 I changed the directory to the folder the script was in, typed “python” and then ran the script successfully.  Once done, I hit enter which then prompts me to make my selection. I input several pieces of data which was then pickled and added to the file. (Figure 2)
 
 ![Exception Handling Python Code](https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/Figure2.png?raw=true "Exception Handling Python Code")
+
 Figure 2: Console Application running Python Pickling Script
 
 ![Exception Handling Python Code](https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/Figure3.png?raw=true "Exception Handling Python Code")
+
 Figure 3: Notepad file
 
 For exception handling I covered three scenarios by using try:, except:, else:, and finally: - In this script we put in scenarios including: not having a file already created, inputting the wrong type of data or adding a zero.
 Once the code was in place, I ran the code in PyCharm and via a Console Application. (Figure 4)
 
 ![Exception Handling Python Code](https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/FIgure4.png?raw=true "Exception Handling Python Code")
+
 Figure 4: Exception Handling Code Running
 
 I changed the directory to the folder the script was in, typed “python” and then ran the script successfully.  Once done, I hit enter which then prompts me to make my selection. I input several pieces of data which was then pickled and added to the file. (Figure 5)
 
 ![Exception Handling Python Code](https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/FIgure5.png?raw=true "Exception Handling Python Code")
+
 Figure 5: Console Application running Python Exception Handling Script
 
 Summary
