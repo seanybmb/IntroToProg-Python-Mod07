@@ -18,7 +18,7 @@ I wrote and ran the script using PyCharm and saved the scripts into two differen
 I first imported the pickle and then defined my variables. Next I processed the data by defining the functions which would be both written and read. And then finally is the user input section that then presents the data, stores it into a list, stores the list in a binary file. The data is then read, the file closed and then the information is printed.
 Once the code was in place, I ran the code in PyCharm and via a Console Application. (Figure 1)
 
-
+https://github.com/seanybmb/IntroToProg-Python-Mod07/blob/main/Figure1.png
  
 Figure 1: Pickle Code Running
 I changed the directory to the folder the script was in, typed “python” and then ran the script successfully.  Once done, I hit enter which then prompts me to make my selection. I input several pieces of data which was then pickled and added to the file. (Figure 2)
